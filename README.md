@@ -1,16 +1,16 @@
 ## 🌐 Coding & Social Profiles
 
 <p align="left">
-  <a href="link" target="_blank">
+  <a href="https://www.linkedin.com/in/vivek-singh19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Abhimanyukumar123" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Abhimanyu2/" target="_blank">
+  <a href="https://leetcode.com/u/Vivekk_Singhh//" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/abhimanyukum3tlg?tab=activity" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/vs6136165" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
