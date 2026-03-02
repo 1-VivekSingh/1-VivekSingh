@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/vivek-singh19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Abhimanyukumar123" target="_blank">
+  <a href="https://github.com/1-VivekSingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Vivekk_Singhh//" target="_blank">
