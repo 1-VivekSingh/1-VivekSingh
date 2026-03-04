@@ -57,17 +57,11 @@
 
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=1-VivekSingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=1-VivekSingh&theme=react-dark)
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
 ## 🔝 Top Contributed Repositories
 
@@ -78,7 +72,7 @@
   </tr>
 
   <tr>
-    <td>⭐ <a href="https://github.com/Abhimanyukumar123/https-github.com-Abhimanyukumar123-DSA_INTERVIEW_PREPARATION"><b>DSA_Leetcode</b></a></td>
+    <td>⭐ <a href="https://github.com/1-VivekSingh/DSA-PREP"><b>DSA_Leetcode</b></a></td>
     <td align="center">DSA / LeetCode Daily</td>
   </tr>
 
