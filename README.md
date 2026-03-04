@@ -57,7 +57,13 @@
 
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=1-VivekSingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=1-VivekSingh&theme=react-dark)
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
